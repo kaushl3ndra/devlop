@@ -10,3 +10,5 @@ echo "enter name:"
 read
 echo "names: $REPLY"
 
+#done
+echo "kush file is done"
