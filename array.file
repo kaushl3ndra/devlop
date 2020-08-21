@@ -1,0 +1,15 @@
+#!/bin/bash
+#array variable
+
+os=('ubuntu' 'window' 'kali') 
+echo "${os[@]}"
+
+echo "${os[0]}"
+echo "${os[1]}"
+echo "${!os[@]}"
+echo "${#os[@]}"
+os[3]='linux'
+
+#all related step in desktop/dir.sh/array14.sh
+
+
