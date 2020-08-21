@@ -1,0 +1,18 @@
+#ab is fine 
+ import tkinter as tk
+#win = tk.TK()
+#win.title("hello world")
+#win.mainloop()
+
+#futue commit 
+-this line base on  future branch.
+
+#output -1
+name = 'kush'
+try :
+    num = int(name)
+except:
+    num = -1
+print('first',num)
+
+

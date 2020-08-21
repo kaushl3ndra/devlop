@@ -3,12 +3,22 @@ read -p 'username :' user_var
 read -sp 'passwd :' pass_var
 echo
 echo "username : $user_var"
+<<<<<<< HEAD
 echo  "passwd : $pass_var
 
 #reply
+=======
+echo  "passwd : $pass_var"
+
+#reply
+
+>>>>>>> 5b106278a458ef4c87e2a57dd38ccd5af7b326fb
 echo "enter name:"
 read
 echo "names: $REPLY"
 
+<<<<<<< HEAD
 #done
 echo "kush file is done"
+=======
+>>>>>>> 5b106278a458ef4c87e2a57dd38ccd5af7b326fb
